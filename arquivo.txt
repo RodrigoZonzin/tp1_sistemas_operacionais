@@ -1,0 +1,171 @@
+.:
+total 52
+drwxrwxr-x 3 zonzin zonzin  4096 abr 24 22:34 .
+drwxrwxr-x 3 zonzin zonzin  4096 abr 22 16:37 ..
+-rw-rw-r-- 1 zonzin zonzin     0 abr 24 22:34 arquivo.txt
+drwxrwxr-x 8 zonzin zonzin  4096 abr 22 16:58 .git
+-rwxrwxr-x 1 zonzin zonzin 16136 abr 22 16:49 ls
+-rwxrwxr-x 1 zonzin zonzin 16144 abr 22 17:04 lsa
+-rw-rw-r-- 1 zonzin zonzin   694 abr 24 22:32 ls_argumentos.c
+-rw-rw-r-- 1 zonzin zonzin   640 abr 22 16:53 ls.c
+-rw-rw-r-- 1 zonzin zonzin     0 abr 22 16:43 teste.c
+
+./.git:
+total 52
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 3 zonzin zonzin 4096 abr 24 22:34 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 branches
+-rw-rw-r-- 1 zonzin zonzin   15 abr 22 16:56 COMMIT_EDITMSG
+-rw-rw-r-- 1 zonzin zonzin  434 abr 22 16:58 config
+-rw-rw-r-- 1 zonzin zonzin   73 abr 22 16:54 description
+-rw-rw-r-- 1 zonzin zonzin   23 abr 22 16:54 HEAD
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 hooks
+-rw-rw-r-- 1 zonzin zonzin  281 abr 22 16:56 index
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 info
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:56 logs
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 objects
+drwxrwxr-x 5 zonzin zonzin 4096 abr 22 16:58 refs
+
+./.git/branches:
+total 8
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+
+./.git/hooks:
+total 68
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+-rwxrwxr-x 1 zonzin zonzin  478 abr 22 16:54 applypatch-msg.sample
+-rwxrwxr-x 1 zonzin zonzin  896 abr 22 16:54 commit-msg.sample
+-rwxrwxr-x 1 zonzin zonzin 4655 abr 22 16:54 fsmonitor-watchman.sample
+-rwxrwxr-x 1 zonzin zonzin  189 abr 22 16:54 post-update.sample
+-rwxrwxr-x 1 zonzin zonzin  424 abr 22 16:54 pre-applypatch.sample
+-rwxrwxr-x 1 zonzin zonzin 1643 abr 22 16:54 pre-commit.sample
+-rwxrwxr-x 1 zonzin zonzin  416 abr 22 16:54 pre-merge-commit.sample
+-rwxrwxr-x 1 zonzin zonzin 1492 abr 22 16:54 prepare-commit-msg.sample
+-rwxrwxr-x 1 zonzin zonzin 1374 abr 22 16:54 pre-push.sample
+-rwxrwxr-x 1 zonzin zonzin 4898 abr 22 16:54 pre-rebase.sample
+-rwxrwxr-x 1 zonzin zonzin  544 abr 22 16:54 pre-receive.sample
+-rwxrwxr-x 1 zonzin zonzin 2783 abr 22 16:54 push-to-checkout.sample
+-rwxrwxr-x 1 zonzin zonzin 3650 abr 22 16:54 update.sample
+
+./.git/info:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin  240 abr 22 16:54 exclude
+
+./.git/logs:
+total 16
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin  173 abr 22 16:56 HEAD
+drwxrwxr-x 4 zonzin zonzin 4096 abr 22 16:58 refs
+
+./.git/logs/refs:
+total 16
+drwxrwxr-x 4 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:56 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 heads
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 remotes
+
+./.git/logs/refs/heads:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 4 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin  173 abr 22 16:56 master
+
+./.git/logs/refs/remotes:
+total 12
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 4 zonzin zonzin 4096 abr 22 16:58 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:58 origin
+
+./.git/logs/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin  155 abr 22 16:58 master
+
+./.git/objects:
+total 36
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 4c
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 6f
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 e6
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 ec
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 fb
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 info
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 pack
+
+./.git/objects/4c:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+-r--r--r-- 1 zonzin zonzin  108 abr 22 16:56 f20c739c652b5f3523289dd03804730cd528bc
+
+./.git/objects/6f:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+-r--r--r-- 1 zonzin zonzin  410 abr 22 16:55 7bf5f08f357e95c167155b5b8561e39fdd59d0
+
+./.git/objects/e6:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+-r--r--r-- 1 zonzin zonzin   15 abr 22 16:55 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+./.git/objects/ec:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:55 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+-r--r--r-- 1 zonzin zonzin 2740 abr 22 16:55 b5b0bb9eff868a867ac5e697a7539b891a5469
+
+./.git/objects/fb:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+-r--r--r-- 1 zonzin zonzin  134 abr 22 16:56 cd8ecf22dafb9c23f8bef0488d70c628c42f2d
+
+./.git/objects/info:
+total 8
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+
+./.git/objects/pack:
+total 8
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 9 zonzin zonzin 4096 abr 22 16:56 ..
+
+./.git/refs:
+total 20
+drwxrwxr-x 5 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 8 zonzin zonzin 4096 abr 22 16:58 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 heads
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 remotes
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 tags
+
+./.git/refs/heads:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:56 .
+drwxrwxr-x 5 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin   41 abr 22 16:56 master
+
+./.git/refs/remotes:
+total 12
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 5 zonzin zonzin 4096 abr 22 16:58 ..
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:58 origin
+
+./.git/refs/remotes/origin:
+total 12
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:58 .
+drwxrwxr-x 3 zonzin zonzin 4096 abr 22 16:58 ..
+-rw-rw-r-- 1 zonzin zonzin   41 abr 22 16:58 master
+
+./.git/refs/tags:
+total 8
+drwxrwxr-x 2 zonzin zonzin 4096 abr 22 16:54 .
+drwxrwxr-x 5 zonzin zonzin 4096 abr 22 16:58 ..
